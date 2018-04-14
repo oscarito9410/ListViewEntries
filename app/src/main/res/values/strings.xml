@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ListView Ejemplos</string>
+
+    <string-array name="animales">
+        <item>Perro</item>
+        <item>Gato</item>
+        <item>Cerdo</item>
+        <item>Caballo</item>
+    </string-array>
+
+</resources>
